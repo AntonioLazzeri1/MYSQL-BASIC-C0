@@ -1,5 +1,5 @@
 -- Opdracht 1 
-
+6
 -- Opdracht 2 
 
 -- Opdracht 3

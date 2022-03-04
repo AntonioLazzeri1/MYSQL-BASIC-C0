@@ -17,4 +17,4 @@ SELECT * FROM jaar2016 WHERE score="5"
 -- Opdracht 9
 SELECT * FROM jaar2016 WHERE country="ierland"
 -- Opdracht 10
-SELECT * FROM jaar2016 WHERE region="Latin America and Caribbean"
+SELECT * FROM jaar2016 WHERE region="Latin America and Caribbean";

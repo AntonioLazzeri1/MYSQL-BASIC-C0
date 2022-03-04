@@ -1,4 +1,3 @@
-
 -- Opdracht 1 
 SELECT Max(wage) As hoogste_loon_speler_fc_utrecht FROM players WHERE club = "fc utrecht";
 -- Opdracht 2 
@@ -19,3 +18,5 @@ SELECT AVG(value) AS avg_value22 FROM players WHERE club = "chelsea";
 SELECT AVG(age) AS age FROM players ;
 -- Opdracht 10
 SELECT club,wage,value FROM players WHERE club ="liverpool";
+
+gggjhghj
